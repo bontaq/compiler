@@ -1,3 +1,5 @@
+
+
 # The Elm Compiler
 
 Learn about the Elm programming language at [elm-lang.org](http://elm-lang.org/).
@@ -9,6 +11,9 @@ Follow [these instructions][installer]!
 
  [installer]: https://guide.elm-lang.org/install.html
 
+## Building
+
+Works with GHC 8.6.5, lts-13.29, and cabal new-* commands
 
 ## Help
 
